@@ -7,7 +7,7 @@
 
 - 👯 I’m a founder of **Go Web**
 
-- 👨‍💻 All of my projects are available at [https://alluring-liquid.surge.sh/](https://alluring-liquid.surge.sh/)
+- 👨‍💻 All of my projects are available at [https://go-web-soft.netlify.app/](https://go-web-soft.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-elsayed-0aa24b1b8/](https://www.linkedin.com/in/mohamed-elsayed-0aa24b1b8/)
 
